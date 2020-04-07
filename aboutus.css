@@ -1,0 +1,83 @@
+@media (max-width: 480px)
+{.head{
+    font-size: 16px;
+    line-height: 24px;
+}}
+.head{
+    color: #ffffff;
+    margin: 0 0 15px;
+    text-transform: none;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+@media (max-width: 800px)
+{.about_us {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}}
+
+
+.about_us {
+    width: 100%;
+
+	margin:  auto;
+	margin-top: 130px !important;
+}
+
+@media (max-width: 767px)
+{.about_us .promo-text2, .about_us .promo-text {
+    font-size: 18px;
+    line-height: 28px;
+}
+.about_us {
+    width: 100% !important;
+  
+}
+}
+
+.about_us .promo-text2, .about_us .promo-text {
+    margin: 0px;
+}
+
+@media (max-width: 480px)
+{h3.promo-text, h3.promo-text2 {
+    text-align: left;
+
+}}
+
+h3.promo-text {
+    font-size: 33px;
+    margin: 50px 0 10px;
+    letter-spacing: 0;
+	font-weight: 300;
+	text-align: center;
+}
+
+h3 {
+  
+    color: #b0262b;
+
+}
+h3.promo-text2 {
+text-align: center;
+    color: #839fad;
+    letter-spacing: 0;
+    font-weight: 300;
+}
+.about_us p {
+    text-align: justify;
+}
+
+.para {
+    color: #808080;
+    font-size: 16px;
+    font-weight: 300;
+	line-height: 32px;
+	text-align: center;
+	width: 100% !important;
+	letter-spacing: 0.031em;
+	
+}
